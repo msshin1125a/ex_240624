@@ -23,5 +23,12 @@
 
 > 결과물
 
-![skin_img]()
+![skin_img](/skin.jpg)
 
+> 발표자료
+
+[ppt]()
+
+> 연락처
+
+github@gmail.com
